@@ -28,6 +28,7 @@
 
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=pink)&nbsp;
 

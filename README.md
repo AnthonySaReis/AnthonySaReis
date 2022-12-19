@@ -23,9 +23,10 @@
 
 
 ### Studying in this moment:
+![CSharp](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)&nbsp;
-![StyledComponents](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=pink)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>

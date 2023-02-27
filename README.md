@@ -15,16 +15,17 @@
  </div>
  
  ### Main skills:
-![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=green)&nbsp;
-![ANDROIDSTUDIO](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=blue)&nbsp;
-![KOTLIN](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=WHITE)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=blue)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue)&nbsp;
 ![React.js](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAF)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 
 
+
 ### Studying in this moment:
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=green)&nbsp;
+![ANDROIDSTUDIO](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=blue)&nbsp;
+![KOTLIN](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=WHITE)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=blue)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
